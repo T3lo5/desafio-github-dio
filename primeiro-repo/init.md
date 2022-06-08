@@ -1,0 +1,2 @@
+## Este é o primeiro repositório git do curso de [GitHub](https://github.com/), da [DIO](https://dio.com.br/).
+## Este reposoito é um repositório de exemplo, para a realização do desafio de projeto do curso.
