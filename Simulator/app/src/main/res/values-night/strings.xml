@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Simulator</string>
-    <string name="txt_simulate">Simulate matches</string>
+    <string name="txt_simulate" translatable="false">Simulate matches</string>
     <string name="image_of_home_team">image of Home team</string>
     <string name="image_of_away_team" translatable="false"> Image of Away team</string>
     <string name="away_team_name">Away team name</string>
@@ -11,9 +11,6 @@
     <string name="home_team_image">Home team image</string>
     <string name="textview">TextView</string>
     <string name="_99">99</string>
-    <string name="cd_home_team" translatable="false">Content description home</string>
-    <string name="txt_versus" translatable="false"> versus </string>
-    <string name="x" translatable="false">x</string>
     <string name="awaytxt">TextView</string>
     <string name="textscores">19</string>
 </resources>
