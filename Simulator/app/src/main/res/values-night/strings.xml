@@ -13,4 +13,5 @@
     <string name="_99">99</string>
     <string name="awaytxt">TextView</string>
     <string name="textscores">19</string>
+    <string name="error_api">Unexpected error</string>
 </resources>

@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simulador</string>
-    <string name="txt_simulate" translatable="false">Simular partidas</string>
-    <string name="image_of_home_team">imagem do time da casa</string>
-    <string name="image_of_away_team" > Imagem do time visitante</string>
-    <string name="away_team_name">nome do time visitante</string>
-    <string name="away_team_scores">placar do time visitante</string>
-    <string name="versus">versus</string>
-    <string name="home_team_score">placar do time da casa</string>
-    <string name="home_team_name">nome do time da casa</string>
-    <string name="home_team_image">imagem do time da casa</string>
-    <string name="textview">TextView</string>
-    <string name="_99">99</string>
-    <string name="awaytxt">TextView</string>
-    <string name="textscores">19</string>
+
 </resources>
